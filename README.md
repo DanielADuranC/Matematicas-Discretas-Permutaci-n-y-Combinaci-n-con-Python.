@@ -10,4 +10,4 @@ En las celdas dónde se le pidan valores, puede colocar cualquier valor.
 
 Tenga en cuenta que está descargando el código fuente también, de preferencia no lo modifique si no desea que el programa gente errores. También puede modificar el colab, pero tenga en cuenta que sus cambios se guardarán de forma local. Es posible hacer comentarios en el cuaderno de Colab.
 
-Puede encontrar ejemplos de uso y funcionamiento en la carpeta "funcionamiento" del repositorio. 
+Puede encontrar ejemplos de uso y funcionamiento en el siguiente enlace: https://drive.google.com/drive/folders/1aOF50uxtC8sdQLO5qoEujQsPGcsfBZZM?usp=drive_link
